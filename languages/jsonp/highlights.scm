@@ -1,5 +1,4 @@
 (comment) @comment
-(stream_start) @punctuation.special
 (vdoc_term) @punctuation.special
 (prop_key) @property
 (string) @string
