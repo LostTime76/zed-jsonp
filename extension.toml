@@ -1,0 +1,11 @@
+id = "jsonp"
+name = "JSONP"
+version = "0.0.1"
+schema_version = 1
+authors = ["colton murphy"]
+description = "Syntax highlighting for the jsonp format"
+repository = "https://github.com/LostTime76/zed-jsonp"
+
+[grammars.jsonp]
+repository = "https://github.com/LostTime76/tree-sitter-jsonp"
+commit = "decbe434f3a78e38a58f703fe7a679a42252018e"
