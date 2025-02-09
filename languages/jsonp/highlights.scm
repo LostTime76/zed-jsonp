@@ -16,12 +16,7 @@
 	(lit_num)
 ] @constant.builtin
 
-[
-	(object_start)
-	(object_end)
-	(array_start)
-	(array_end)
-] @punctuation.bracket
+["{" "}" "[" "]"] @punctuation.bracket
 
 [
 	","
