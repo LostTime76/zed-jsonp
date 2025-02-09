@@ -8,4 +8,4 @@ repository = "https://github.com/LostTime76/zed-jsonp"
 
 [grammars.jsonp]
 repository = "https://github.com/LostTime76/tree-sitter-jsonp"
-commit = "ff50e477afcb86b9474a3636a475536d9428f5fd"
+commit = "5ddeca5801896de49c62d3058d820432aa11bdbf"

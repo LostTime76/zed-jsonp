@@ -1,5 +1,5 @@
 (comment) @comment
-(vdoc_term) @punctuation.special
+(doc_term) @punctuation.special
 (prop_key) @property
 (string) @string
 (char_esc) @string.escape
